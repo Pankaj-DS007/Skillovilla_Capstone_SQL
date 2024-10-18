@@ -1,2 +1,3 @@
-# Skillovilla_Capstone_SQL
-Certification in Data Analytics and Business Analytics
+# Airline Database Analytics and SQL Querying
+## Comprehensive SQL queries for flight operations, passenger data insights, and airline performance analysis
+### This project analyses various aspects of airline operations using complex SQL queries. The dataset includes information about flights, passengers, tickets, airports, and aircraft. By leveraging SQL, the queries extract valuable insights such as the highest and least paying passengers, flight details, seat allocations, and operational metrics. This comprehensive analysis showcases how data can be utilized to optimize airline performance, improve passenger experience, and streamline operations within the aviation industry.
